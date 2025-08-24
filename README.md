@@ -22,7 +22,7 @@ Hosted on **GitHub Pages**.
 ---
 
 ## 🌍 Live Demo
-🔗 [View Blog Live](https://jahanshu.github.io/projectblog.github.io)
+🔗 [View Blog Live](file:///C:/Users/Jahanshu/OneDrive/Documents/GitHub/Blog.github.io/index.html)
 
 ---
 ## 📩 Connect with me
